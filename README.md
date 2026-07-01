@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=DC0000&center=true&vCenter=true&width=600&lines=ARE+YOU+READY?!?!;In+my+restless+dreams...+I+see+that+town...;Jackpot!;Where's+everyone+going?+Bingo?;It's+bread.;Truth+is+like+a+tragedy;I+regreat+nothing;'Never+stop+dreaming.'+-+Freddy+Krueger;Never+more" alt="Typing SVG" />
 </div>
 
-# ┗━━⊱  𝑬𝒎𝒃𝒓𝒂𝒄𝒆 𝑻𝒉𝒆 𝑫𝒂𝒓𝒌𝒏𝒆𝒔𝒔 𝒂𝒏𝒅 𝒔𝒆𝒆 𝒕𝒉𝒆 𝒍𝒊𝒈𝒉𝒕 𝒊𝒏 𝒊𝒕  ⊰━━┛
+# ┗━⊱  𝑬𝒎𝒃𝒓𝒂𝒄𝒆 𝑻𝒉𝒆 𝑫𝒂𝒓𝒌𝒏𝒆𝒔𝒔 𝒂𝒏𝒅 𝒔𝒆𝒆 𝒕𝒉𝒆 𝒍𝒊𝒈𝒉𝒕 𝒊𝒏 𝒊𝒕  ⊰━┛
 
 - Technology student actively seeking opportunities to apply and expand my knowledge of software development.
 
@@ -20,7 +20,7 @@
 
 ---
 
-# ┗━━━━━━━⊱  𝑻𝒉𝒊𝒔... 𝑰𝒔 𝒎𝒚 𝑩𝑶𝑶𝑴 𝑺𝑻𝑰𝑪𝑲!  ⊰━━━━━━━┛
+# ┗━━━━━⊱  𝑻𝒉𝒊𝒔... 𝑰𝒔 𝒎𝒚 𝑩𝑶𝑶𝑴 𝑺𝑻𝑰𝑪𝑲!  ⊰━━━━━┛
 
 <div align="center">
   
@@ -53,7 +53,7 @@
 
 ---
 
-#  ▌║█║▌▌║▌█│║│║║▌█║Come find me ▌│║▌║▌│▌║▌║║▌█║▌║█
+#  ▌║█║▌▌║▌█│║│║║▌█║Come find me ▌│║▌║▌│▌║║▌█║▌║█
 
 <div align="center">
   <a href="mailto:jpazevedo2005@gmail.com" target="_blank">
